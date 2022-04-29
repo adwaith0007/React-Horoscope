@@ -1,0 +1,49 @@
+.form {
+  margin: auto;
+  margin-top: 7.5rem;
+  max-width: 20rem;
+    width: 90%;
+  
+  padding: 4rem 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 14px;
+  background-color:rgba(245, 245, 245, 0.801);
+  text-align: center;
+  row-gap: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.submitButton {
+
+  margin-top: 1rem;
+  padding: 5% 15%;
+  background: #03102bd7;
+  color: #fff;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+ 
+}
+.searchInput {
+  width: 100%;
+  padding: 4% 5% ;
+  letter-spacing: 1px;
+  
+  border: none;
+  border-radius: 5px ;
+  outline: none;
+ 
+
+  font-size: 16px;
+}
+.searchInput2 {
+    width: 100%;
+    padding: 4% 5% ;
+    border: none;
+    border-radius: 5px ;
+    outline: none;
+  
+    font-size: 16px;
+  }
+  

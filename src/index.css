@@ -1,0 +1,15 @@
+
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+  margin: 0;
+  background:linear-gradient(to right,#3b0d91,#ad504d);
+}
+
